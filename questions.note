@@ -1,7 +1,27 @@
+ESERCIZI: 
+
+es 1.2) non sono sicuro di poter usare la composizione con h per dimostrare l'omotopia tra g e h
+
+es 1.6) non so cosa fare
+
+es 1.13) non sono sicuro di poter comporre la definizione di retrazione con l'inclusione e poi usare l'implicazione = -> ~
+
+es 1.14) credo di aver sbagliato qialcosa nella formula della retta per due punti perché non mi dà il risultato che mi aspetto
+
+es 1.15) non riesco a capire l'ultimo passaggio del suggerimento (la sottosuccessione che tende a t_0); inoltre non so come usare il suggerimento per risolvere l'esercizio
+
+---
+
+TEORIA: 
+
 pg 39) non capisco come usiamo l'iniettività dell'omeomorfismo per dimostrare che la topologia della controimmagine sia discreta
 
 pg 40) perché p : Z\{c,f} -> W è un omeomorfismo locale ma non un rivestimento?
 
 pg 42) perché X̃\W è chiuso?
+
+---
+
+ALTRO:
 
 come posso pensare a uno spazio topologico che "interpola" tra due spazi diversi? negli articoli per la tesi ho in particolare uno spazio di anti de sitter e uno asintoticamente piatto
